@@ -1,0 +1,61 @@
+<!doctype html>
+ <html>
+
+   <head>
+      <meta charset="utf-8"/>
+      <meta name="wiewport" content="width=device-width"
+      <title>Experiencia Laboral</title>
+    </head>
+<body>
+  <header>
+    <svg width=100% height=200>
+        <svg><circle cx="100" cy="100" r="100" fill="pink" stroke="blue" stroke-width="2"></svg>
+       <svg><text x=25 y=50 font-weight="bold" fill="aqua" stroke="blue" stroke-width=2
+   font-family="comic sans ms" font-size="2em" >A.M-G.S</text></svg>
+       <svg><text x=25 y=120 font-weight="bold" fill="aqua" stroke="blue" stroke-width=2
+  font-family="comic sans ms" font-size="1em" >Guarderia Canina</text></svg>
+       </svg>
+       </header>
+  <section>
+ <h1> Hoja de Vida Ana Maria  </h1><br>
+  <h2> Menu </h2>
+    <ul>
+      <li> <a class"enlace" href="index.html" target="_blank" title="Inicio">Inicio</a> <li>
+      <li> <a href="Educacion.html" target="_blank" title="educacion">Educación</a> <li>
+    </ul>
+  </section><br>
+  <section>
+    <h1>ANA MARIA GÓMEZ SILVA</h1><br>
+        <h2> Experiencia laboral</h2>
+        <video src="videos/videoexperiencia.mp4" poster="imagenes/veterinariaana.jpg" controls preload width:"600">
+        	<source src="videos/videoexperiencia.ogv" type="video/mov">
+        	<source src="videos/videoexperiencia.mov" type="video/mov">
+            <source src="videos/videoexperiencia.webm" type="video/webm">
+          	</video>
+       <br>
+     </section><br>
+     <section>
+       <h2>Hobies y Actividades</h2>
+       <p>
+         Paso gran parte de mi tiempo libre cuidando perros abandonados o en malas condiciones.
+    Corro, juego Voleyball y escuho mucha música. No incluí el video y el audio de acuerdo
+    a las condiciones de la tarera porque en el momento no tengo como grabar. Igual, creo que
+    lo importante es aplicar las etiquetas aprendidas hasta el momento. Pero mejor te cuento todo esto en el siguiente audio<h3>
+    </p><br>
+    <img src="imagenes\logo2.jpg" width=300 alt="imagen Ana Maria Gómez" title="Ana Maria Gómez"/><br>
+    <audio src="audio/experienciavet.mp3"preload="auto"controls>
+      <source src="audio/experienciavet.ogg" type="audio/ogg">
+      <source src="audio/experienciavet.webM" type="audio/webM">
+        <source src="audio/experienciavet.mp4" type="audio/mp4">
+    </audio>
+  </section>
+      <footer>
+           <p>Correo electronico: juangos21@yahoo.es </p>
+           <p>Telefono: 3217697580 </p>
+           <p>Dirección Cra 10 Este No 96-63</p>
+       </div>
+       </div>
+   </footer>
+   </body>
+
+ </html>
